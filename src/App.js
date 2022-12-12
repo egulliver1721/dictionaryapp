@@ -12,7 +12,14 @@ function App() {
         </main>
         <footer>
           Coded by Emily Gulliver, open-sourced on{" "}
-          <a href="https://github.com/egulliver1721/dictionaryapp">GitHub</a>
+          <a
+            href="https://github.com/egulliver1721/dictionaryapp"
+            target="_blank"
+            rel="noreferrer"
+            alt="github opensourced code"
+          >
+            GitHub
+          </a>
           and hosted on <a href=""></a> Netlify
         </footer>
       </div>
