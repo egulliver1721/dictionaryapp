@@ -1,11 +1,15 @@
-import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+
+import DictionarySearch from "./DictionarySearch.js";
 
 function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header"></header>
-        <p>test</p>
+        <main>
+          <DictionarySearch />
+        </main>
+        <footer>Coded by E.Gulliver</footer>
       </div>
     </div>
   );
