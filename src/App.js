@@ -20,7 +20,15 @@ function App() {
           >
             GitHub
           </a>
-          and hosted on <a href=""></a> Netlify
+          and hosted on{" "}
+          <a
+            href="https://inspiring-truffle-f23712.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+            alt="hosting link"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
