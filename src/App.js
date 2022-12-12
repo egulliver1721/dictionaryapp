@@ -10,7 +10,11 @@ function App() {
           <h1 className="Centered mb-5">What word would you like to search?</h1>
           <DictionarySearch defaultInput="Sunset" />
         </main>
-        <footer>Coded by E.Gulliver</footer>
+        <footer>
+          Coded by Emily Gulliver, open-sourced on{" "}
+          <a href="https://github.com/egulliver1721/dictionaryapp">GitHub</a>
+          and hosted on <a href=""></a> Netlify
+        </footer>
       </div>
     </div>
   );
