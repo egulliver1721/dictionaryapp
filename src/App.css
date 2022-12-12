@@ -1,0 +1,12 @@
+.App {
+  background: rgba(255, 127, 80, 0.174);
+}
+.DictionarySearch {
+  margin: 0 auto;
+  padding: 50px;
+  max-width: 1000px;
+}
+
+.Centered {
+  text-align: center;
+}
