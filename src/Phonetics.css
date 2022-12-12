@@ -1,6 +1,7 @@
 .Phonetics {
   height: 60px;
 }
+
 .Phonetics a {
   text-decoration: none;
   color: coral;
@@ -8,9 +9,16 @@
   border-radius: 20px;
   padding: 5px 15px;
   transition: all 150ms ease-in-out;
+  font-size: 15px;
 }
 
 .Phonetics a:hover {
   background: coral;
   color: white;
+}
+
+.PhoneticsText {
+  padding: 20px;
+  font-weight: 600;
+  opacity: 0.8;
 }
